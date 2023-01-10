@@ -1,1 +1,1 @@
-# projects
+# goit-markup-hw-02
